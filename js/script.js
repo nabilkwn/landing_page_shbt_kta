@@ -75,7 +75,7 @@ function gotowhatsapp() {
   var sum = document.getElementById("sum").value;
 
   var url =
-    "https://wa.me/6285764490600?text=" +
+    "https://wa.me/6285161321293?text=" +
     "Nama: " +
     name +
     "%0a" +
